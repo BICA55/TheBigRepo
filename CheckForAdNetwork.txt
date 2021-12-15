@@ -1,2 +1,1 @@
 admob
-//Wenn admob wird admob verwendet, wenn unity wird Unity ads verwendet
